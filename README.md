@@ -1,2 +1,2 @@
 # cv.portofolio
-web portofolio data diri dan projects
+web portofolio data diri dan projects by Nanda Putra wiguna
